@@ -83,7 +83,7 @@ RSS로 가져온 기사 중 **제목에 "로봇"이 들어간 기사만** 통과
 
 | 설정 항목 | 값 |
 |---|---|
-| Connection | My Notion Internal connection |
+| Connection | `[마스킹]` |
 | Search Objects | Data Sources |
 | Query Search | `10.URL` (RSS 기사의 URL로 검색) |
 | Sort | Last edited time – Descending |
@@ -112,7 +112,7 @@ RSS로 가져온 기사 중 **제목에 "로봇"이 들어간 기사만** 통과
 
 | 설정 항목 | 값 |
 |---|---|
-| Connection | My Anthropic Claude connection |
+| Connection | `[마스킹]` |
 | Model | Claude Haiku 4.5 |
 | Max Tokens | `300` |
 | Role | User |
@@ -129,8 +129,8 @@ RSS로 가져온 기사 중 **제목에 "로봇"이 들어간 기사만** 통과
 
 | 설정 항목 | 값 |
 |---|---|
-| Connection | My Notion Internal connection |
-| Database ID | `38a530bc8ac0807b8dbbe2b1deb0466b` |
+| Connection | `[마스킹]` |
+| Database ID | `[마스킹]` |
 
 **필드 매핑 (Notion 속성 ← 입력 데이터):**
 

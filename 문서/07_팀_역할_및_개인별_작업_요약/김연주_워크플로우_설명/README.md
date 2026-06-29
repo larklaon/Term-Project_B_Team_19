@@ -5,7 +5,8 @@
 각 워크플로우의 장점과 개선점을 공유하고, 가장 효율적이고 안정적인 기능만을 취합하여 하나의 최종 워크플로우를 완성하였다.
 
 [김연주]
-![title](https://cdn.discordapp.com/attachments/1517041778291769464/1520294182147719278/image.png?ex=6a40abca&is=6a3f5a4a&hm=8de65f2063f0799067decc7763c84907ea1e271c590f622d6317ff62a155f371&)
+
+![김연주 워크플로우](./김연주_워크플로우.png)
 
 | 단계 | 모듈              | 역할                                              |
 | ---- | ----------------- | ------------------------------------------------- |
@@ -21,15 +22,6 @@
 | 10   | Error Handler     | AI 요청 실패 시 오류 로그 저장                    |
 | 11   | Image API         | 이미지 프롬프트 기반 썸네일 생성                  |
 | 12   | Notion Create     | 제목, 요약, 감정, 이미지 등을 데이터베이스에 저장 |
-
-[송영준]
-![title](https://cdn.discordapp.com/attachments/1517041778291769464/1520294379607162931/0bf58d6f35cfab3f.png?ex=6a40abf9&is=6a3f5a79&hm=1f3d700109e9fc30723586fde1e590da85124a03574a4e66c21b8bf7768350b7&)
-
-[이소민]
-![title](https://cdn.discordapp.com/attachments/1517041778291769464/1520294123674800319/2026-06-27_2.05.54.png?ex=6a40abbc&is=6a3f5a3c&hm=47bd1d12972beccfca1593ab226ac41a950879e9fdaa679bae20336a975930ea&)
-
-[박상혁]
-![title](https://cdn.discordapp.com/attachments/1517041778291769464/1520294427166380172/2026-06-27_2.06.02.png?ex=6a40ac05&is=6a3f5a85&hm=63837cc7e8eba8ecc8d9d8332d8e474a516a75a8adc7fbf537addf8c7a9f8787&)
 
 <br>
 
